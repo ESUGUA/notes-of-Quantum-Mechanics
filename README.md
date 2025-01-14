@@ -8,3 +8,6 @@ The textbook I choose is _Introduction to Quantum Mechanics_ by _David J . Griff
 
 ​	I've learned part of the _Wave function_. 
 
+ 14th Jan
+
+ I can't choose the Q.M the next semester ,so I decide to stop uploading these notes. Insteadly, I will upload the notes of electrodynamics.
